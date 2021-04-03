@@ -58,8 +58,7 @@ Compile `.c` files with:
 `user@ubuntu:~/sorting_algorithms$ ./file`
 
 <p align="center">
-    <h2 align="center">By:</h2>
-    <h2 align="center">Eliana Gómez Suárez</h2>
+    <h2 align="center"> By: Eliana Gómez Suárez</h2>
 </p>
 
 ## Made with :black_heart: in
